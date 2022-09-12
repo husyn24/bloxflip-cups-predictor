@@ -7,11 +7,7 @@ How to use
 .cups (round_id)
 
 How to install the stuff
-
-
-
-
-pip install discord.py
+pip install discord.py and
 pip install discord
 
 its completely random
